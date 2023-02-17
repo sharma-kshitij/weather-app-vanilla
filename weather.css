@@ -1,0 +1,21 @@
+h1,
+h2 {
+  color: white;
+}
+
+td,
+th {
+  color: white;
+}
+
+span {
+  color: black;
+}
+
+#cityName {
+  color: white;
+}
+
+body {
+  background-image: url("/image.jpg") !important;
+}
